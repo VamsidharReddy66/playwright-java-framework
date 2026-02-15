@@ -28,7 +28,7 @@ jobs:
             ${{ runner.os }}-m2
 
       - name: Install Playwright browsers
-        run: mvn exec:java -Dexec.mainClass=com.microsoft.playwright.CLI -Dexec.args="install --with-deps"
+        run: mvn exec:java -Dexec.mainClass=com.microsoft.playwright.CLI -Dexec.args="install"
 
       - name: Run Tests
         run: mvn clean test -Dmaven.test.failure.ignore=true
