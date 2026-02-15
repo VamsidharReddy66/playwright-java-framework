@@ -1,0 +1,6 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","2617","verifyUserDetails","Surefire suite","2026-02-15","passed","2026-02-15","tests.UserApiTest","Surefire test","tests.UserApiTest","verifyUserDetails"
+"","2087","verifyGoogleTitle","Surefire suite","2026-02-15","passed","2026-02-15","tests.GoogleTest","Surefire test","tests.GoogleTest","verifyGoogleTitle"
+"","6401","verifyValidLogin","Surefire suite","2026-02-15","passed","2026-02-15","tests.LoginTest","Surefire test","tests.LoginTest","verifyValidLogin"
+"","7971","verifyInvalidLogin","Surefire suite","2026-02-15","failed","2026-02-15","tests.LoginTest","Surefire test","tests.LoginTest","verifyInvalidLogin"
+"","2211","verifyLoginAndGetToken","Surefire suite","2026-02-15","passed","2026-02-15","tests.AuthApiTest","Surefire test","tests.AuthApiTest","verifyLoginAndGetToken"
